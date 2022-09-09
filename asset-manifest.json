@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio22/static/css/main.09e3adb7.css",
+    "main.js": "/portfolio22/static/js/main.afc45daa.js",
+    "static/media/bookclub.png": "/portfolio22/static/media/bookclub.5a03cd0a94d4db93e884.png",
+    "static/media/compt.jpg": "/portfolio22/static/media/compt.7bf87c5905eb55a5a7cc.jpg",
+    "index.html": "/portfolio22/index.html",
+    "main.09e3adb7.css.map": "/portfolio22/static/css/main.09e3adb7.css.map",
+    "main.afc45daa.js.map": "/portfolio22/static/js/main.afc45daa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09e3adb7.css",
+    "static/js/main.afc45daa.js"
+  ]
+}
